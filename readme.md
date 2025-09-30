@@ -16,9 +16,9 @@ Overview available at: https://solarsystem-simulation-wine.vercel.app/
 
 ![Mars](images/mars.png)
 
-![Jupiter-Inner layers](images/jupiter.jpg)
+![Jupiter-Inner layers](images/jupiter.png)
 
-![Earth](images/earth.jpg)
+![Earth](images/earth.png)
 
 ## Features
 
