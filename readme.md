@@ -3,7 +3,7 @@
 Welcome to the 3D Solar System project, a dynamic and interactive simulation of our solar system created using THREE.js and the Vite framework.
 This project showcases advanced features and effects to provide an immersive experience of the celestial bodies in our solar system.
 
-Originally created by Karol Fryc (N3rson) and modified by *Olivia Evnageline John*.
+Originally created by Karol Fryc (N3rson) and modified by *Blessy Sharon M*.
 
 
 Overview available at: https://w21030911.nuwebspace.co.uk/graphics/assessment/
@@ -15,6 +15,10 @@ Overview available at: https://w21030911.nuwebspace.co.uk/graphics/assessment/
 ![Mercury](images/mercury.png)
 
 ![Mars](images/mars.png)
+
+![Jupiter-Inner layers](images/jupiter.jpg)
+
+![Earth](images/earth.jpg)
 
 ## Features
 
@@ -84,7 +88,7 @@ Overview available at: https://w21030911.nuwebspace.co.uk/graphics/assessment/
     ```sh
     npm run dev
     ```
-5. Open your browser and navigate to `http://localhost:3000` to see the 3D Solar System in action.
+5. Open your browser and navigate to `http://localhost:5173` to see the 3D Solar System in action.
 
 ## Conclusion
 This project is a comprehensive representation of our solar system, bringing together realistic modeling, advanced visual effects, and interactive features. Explore the planets, their moons, and the vast asteroid belts, all from the comfort of your screen.

@@ -1,3 +1,13 @@
+/* Remove default body/html margin */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* optional, hides scrollbars */
+  width: 100%;
+  height: 100%;
+  background: black; /* or your preferred background */
+}
+
 .planet-info {
     display: none;
     position: fixed;
