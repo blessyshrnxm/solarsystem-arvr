@@ -7,7 +7,7 @@ import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import { OutlinePass } from 'three/addons/postprocessing/OutlinePass.js';
 import asteroidPackUrl from './asteroids/asteroidPack.glb?url';
-import bgMusicUrl from './audio/young.mp3?url';
+//import bgMusicUrl from './audio/young.mp3?url';
 import bgTexture1 from '/images/1.jpg';
 import bgTexture2 from '/images/2.jpg';
 import bgTexture3 from '/images/3.jpg';
