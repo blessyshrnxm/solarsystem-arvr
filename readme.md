@@ -6,7 +6,7 @@ This project showcases advanced features and effects to provide an immersive exp
 Originally created by Karol Fryc (N3rson) and modified by *Blessy Sharon M*.
 
 
-Overview available at: https://solarsystem-simulation-wine.vercel.app/
+Live at: https://solarsystem-simulation-git-main-blessyshrnxms-projects.vercel.app/
 
 ![Solar_System](images/solar_system.png)
 
